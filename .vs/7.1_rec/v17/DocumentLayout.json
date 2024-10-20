@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7.1_rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89B0D300-493D-42D6-A191-E80206D0D72F}|UnitTest_7.1rec\\UnitTest_7.1rec.vcxproj|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7.1_rec\\UnitTest_7.1rec\\UnitTest_7.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89B0D300-493D-42D6-A191-E80206D0D72F}|UnitTest_7.1rec\\UnitTest_7.1rec.vcxproj|solutionrelative:UnitTest_7.1rec\\UnitTest_7.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB1EAC7-EE7B-4BE8-B4D2-759EC6066C0B}|7.1_rec\\7.1_rec.vcxproj|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7.1_rec\\7.1_rec\\7.1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDB1EAC7-EE7B-4BE8-B4D2-759EC6066C0B}|7.1_rec\\7.1_rec.vcxproj|solutionrelative:7.1_rec\\7.1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A52BDF5-DB95-4ACD-860D-F67B0A1685FA}|71rec\\71rec.vcxproj|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7.1_rec\\71rec\\71rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A52BDF5-DB95-4ACD-860D-F67B0A1685FA}|71rec\\71rec.vcxproj|solutionrelative:71rec\\71rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_7.1rec.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7.1_rec\\UnitTest_7.1rec\\UnitTest_7.1rec.cpp",
+              "RelativeDocumentMoniker": "UnitTest_7.1rec\\UnitTest_7.1rec.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7.1_rec\\UnitTest_7.1rec\\UnitTest_7.1rec.cpp",
+              "RelativeToolTip": "UnitTest_7.1rec\\UnitTest_7.1rec.cpp",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T07:25:27.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "71rec.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7.1_rec\\71rec\\71rec.cpp",
+              "RelativeDocumentMoniker": "71rec\\71rec.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7.1_rec\\71rec\\71rec.cpp",
+              "RelativeToolTip": "71rec\\71rec.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T22:47:11.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "7.1_rec.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7.1_rec\\7.1_rec\\7.1_rec.cpp",
+              "RelativeDocumentMoniker": "7.1_rec\\7.1_rec.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7.1_rec\\7.1_rec\\7.1_rec.cpp",
+              "RelativeToolTip": "7.1_rec\\7.1_rec.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T20:13:30.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
